@@ -20,13 +20,14 @@
 
 ## 🚀 About Me
 [
-Name: Aditya Rana<br>
-Role: Software Developer<br>
-Focus:
+Name:- Aditya Rana<br>
+Role:-<br>
+Software Developer<br>
+Focus:-
   - Artificial Intelligence
   - Machine Learning
   - Backend & Automation<br>
-Mindset:
+Mindset:-
   - Clean logic > fancy code
   - Build → Break → Learn → Scale
 ]
