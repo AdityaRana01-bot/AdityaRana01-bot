@@ -20,8 +20,8 @@
 
 ## 🚀 About Me
 [
-Name: Aditya Rana
-Role: Software Developer
+Name: Aditya Rana<br>
+Role: Software Developer<br>
 Focus:
   - Artificial Intelligence
   - Machine Learning
