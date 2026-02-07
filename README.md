@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 About Me
-[```yaml
+[
 Name: Aditya Rana
 Role: Software Developer
 Focus:
