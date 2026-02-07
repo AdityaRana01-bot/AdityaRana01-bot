@@ -92,6 +92,9 @@ Mindset:
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaRana01-bot&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AdityaRana01-bot&theme=tokyonight&hide_border=true" />
+</p>
 
 
 
@@ -103,9 +106,7 @@ Mindset:
 - 🌱 Portfolio: *Coming soon*
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaRana01/AdityaRana01/output/github-contribution-grid-snake.svg" />
-</p>
+
 
 
 ⭐ **If you like my work, consider starring the repos!**
