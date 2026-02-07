@@ -90,7 +90,7 @@ Mindset:
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaRana01-bot&show_icons=true&theme=tokyonight)
 
-![GitHub Streak] (https://streak-stats.demolab.com?user=AdityaRana01-bot&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=AdityaRana01-bot&theme=tokyonight)
 
 ---
 
