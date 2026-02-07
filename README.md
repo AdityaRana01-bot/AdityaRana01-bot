@@ -26,7 +26,8 @@ Software Developer<br>
 Focus:-
   - Artificial Intelligence
   - Machine Learning
-  - Backend & Automation<br>Mindset:-
+  - Backend & Automation<br>
+Mindset:-
   - Clean logic > fancy code
   - Build → Break → Learn → Scale
 ]
