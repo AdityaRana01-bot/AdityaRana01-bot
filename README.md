@@ -27,6 +27,7 @@ Focus:-
   - Artificial Intelligence
   - Machine Learning
   - Backend & Automation<br>
+
 Mindset:-
   - Clean logic > fancy code
   - Build → Break → Learn → Scale
