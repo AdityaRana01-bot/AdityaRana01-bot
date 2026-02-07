@@ -88,15 +88,9 @@ Mindset:
 ![](https://nirzak-streak-stats.vercel.app/?user=AdityaRana01-bot&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaRana01-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaRana01-bot&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaRana01-bot&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdityaRana01-bot&theme=tokyonight&hide_border=true" />
-</p>
-
-
+![GitHub Streak](https://streak-stats.demolab.com?user=AdityaRana01-bot&theme=tokyonight)
 
 ---
 
